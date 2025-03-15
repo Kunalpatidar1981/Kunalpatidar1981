@@ -3,7 +3,7 @@
 <img src="https://cdn.dribbble.com/userupload/22212568/file/original-ff1e2347867631f39c5e5341cc22c0dd.gif" alt="coding">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalpatiadr&label=Profile%20views&color=0e75b6&style=flat" alt="kunalpatiadr" /> </p>
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **AngularJS**
 
 - 📫 How to reach me **kunalpatidar99260@gmail.com**
 
