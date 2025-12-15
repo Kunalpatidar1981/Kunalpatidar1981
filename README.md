@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=kunalpatiadr&label=Profile%20views&color=0e75b6&style=flat" alt="kunalpatiadr" />
 </p>
 
-- 🌱 I’m currently learning **AngularJS**
+- 🌱 I’m currently learning **drupal**
 - 📫 How to reach me **kunalpatidar99260@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
